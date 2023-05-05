@@ -3,3 +3,15 @@
 # @Author : 501036554@qq.com
 # @File : 函数作为参数传递
 # @Project : python-xuexi
+
+# 函数作为参数传递
+def func(com):
+    a = com(12, 5)
+    print(a)
+
+
+def compute(x, y):
+    return x * y
+
+
+func(compute)
