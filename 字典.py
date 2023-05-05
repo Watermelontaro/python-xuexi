@@ -22,3 +22,16 @@ dict1["zhao"] = 55
 print(dict1)
 dict1["zhao"] = 66
 print(dict1)
+# 删除
+a = dict1.pop("zhao")
+print("a==", a)
+print(dict1)
+# 清空
+dict1.clear()
+print(dict1)
+# 循环遍历
+for key in dict5:
+    print(key)
+    print(dict5[key])
+# 统计字典的元素数量
+print(len(dict5))
