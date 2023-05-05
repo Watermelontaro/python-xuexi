@@ -5,7 +5,7 @@
 # @Project : pythonProject
 
 # 定义列表
-name_list = ["程序员", "list", "for", "王炸", [1, 2, "haha", [2, "wang"]]]
+name_list = [1, "程序员", "list", "for", "王炸", [1, 2, "haha", [2, "wang"]]]
 # 输出列表
 print(name_list)
 # 输出元素类型
