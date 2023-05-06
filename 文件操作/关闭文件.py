@@ -6,7 +6,7 @@
 
 f = open("C:\mysql\mysql-5.7.38-winx64\my.ini", "r", encoding="utf-8")
 f.read()
-# 让程序暂停50000秒，在此期间，文件一直被占用
+# 让程序睡眠50000秒，在此期间，文件一直被占用
 # time.sleep(50000)
 # 程序结束和使用close方法可以使文件关闭
 f.close()
