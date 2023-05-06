@@ -10,3 +10,9 @@ f.read()
 # time.sleep(50000)
 # 程序结束和使用close方法可以使文件关闭
 f.close()
+# with open语法自动关闭文件
+with open("C:\mysql\mysql-5.7.38-winx64\my.ini", "r", encoding="utf-8") as j:
+    for ll in j:
+        print(ll)
+
+# time.sleep(50000)
