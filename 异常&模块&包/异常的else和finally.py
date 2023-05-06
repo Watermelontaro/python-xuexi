@@ -3,3 +3,12 @@
 # @Author : 501036554@qq.com
 # @File : 异常的else和finally
 # @Project : python-xuexi
+try:
+    print(name)
+    # print("hello")
+except Exception as e:
+    print(e)
+else:
+    print("我是else")
+finally:
+    print("我是finally")
