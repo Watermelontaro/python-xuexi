@@ -5,6 +5,7 @@
 # @Project : python-xuexi
 
 # 导入python自带的模块time
+# 查看模块：按住Ctrl，左击模块名
 import time
 # 导入python自带的模块time中的sleep
 from time import sleep
