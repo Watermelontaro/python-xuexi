@@ -11,3 +11,4 @@ try:
 # except:出现异常后执行的代码
 except:
     print("2", open("C:\mysql\word.txt", "r", encoding="utf-8"))
+A = 1 / 0
