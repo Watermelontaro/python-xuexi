@@ -6,7 +6,13 @@
 
 
 # 导入模块
+from 自定义模块 import *
 from 自定义模块1 import te
 
 # 同时调用te函数 后调用的会生效
-te(5, 5)
+try:
+    te(5, 5)
+    teb(2, 1)
+    tec(2, 1)
+except Exception as e:
+    print(e)
