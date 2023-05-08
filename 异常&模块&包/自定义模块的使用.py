@@ -7,11 +7,14 @@
 
 # 导入模块
 from 自定义模块 import *
+# import 自定义模块
 from 自定义模块1 import te
 
 # 同时调用te函数 后调用的会生效
 try:
     te(5, 5)
+    # 自定义模块.teb(2, 1)
+    # 自定义模块.tec(2, 1)
     teb(2, 1)
     tec(2, 1)
 except Exception as e:
