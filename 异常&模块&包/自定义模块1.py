@@ -4,8 +4,9 @@
 # @File : 自定义模块1
 # @Project : python-xuexi
 
-def test(a, b):
+def te(a, b):
     print(a - b)
 
 
-test(5, 20)
+if __name__ == '__main__':
+    te(1, 2)
