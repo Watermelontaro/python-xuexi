@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d098ee-8d40-4cfe-b8ed-d4d4d6d9e67d" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/数据可视化/pyecharts/绘制地图/全国地图.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据可视化/pyecharts/疫情折线图/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据可视化/pyecharts/疫情折线图/render.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据可视化/pyecharts/疫情折线图/美国疫情折线图.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据可视化/pyecharts/疫情折线图/美日印国疫情折线图.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,15 +93,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ZSC_PC\PycharmProjects\pythonProject\数据可视化\pyecharts" />
       <recent name="C:\Users\ZSC_PC\PycharmProjects\pythonProject\数据可视化\pyecharts\疫情折线图" />
       <recent name="C:\Users\ZSC_PC\PycharmProjects\pythonProject\数据可视化" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript 调试.render.html (1)">
+  <component name="RunManager" selected="JavaScript 调试.render.html">
     <configuration name="render.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonProject/数据可视化/pyecharts/疫情折线图/render.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="render.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonProject/数据可视化/pyecharts/render.html" useBuiltInWebServerPort="true">
+    <configuration name="render.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonProject/数据可视化/pyecharts/绘制地图/render.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="美日印国疫情折线图 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -127,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="折线图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="全国地图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,12 +135,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据可视化/pyecharts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据可视化/pyecharts/绘制地图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据可视化/pyecharts/折线图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据可视化/pyecharts/绘制地图/全国地图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,10 +262,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript 调试.render.html" />
+        <item itemvalue="Python.全国地图" />
         <item itemvalue="JavaScript 调试.render.html (1)" />
         <item itemvalue="Python.美日印国疫情折线图 (1)" />
-        <item itemvalue="Python.美日印国疫情折线图" />
-        <item itemvalue="Python.折线图" />
         <item itemvalue="Python.美日印国疫情折线图" />
       </list>
     </recent_temporary>
@@ -297,7 +297,7 @@
       <workItem from="1684119090602" duration="1348000" />
       <workItem from="1684134892107" duration="3739000" />
       <workItem from="1684205555161" duration="1361000" />
-      <workItem from="1684220301237" duration="5833000" />
+      <workItem from="1684220301237" duration="6783000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1683788872876</created>
@@ -390,7 +390,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684225272713</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Changes">
+      <created>1684226236061</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684226236061</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Changes">
+      <created>1684226239322</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684226239322</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,6 +430,6 @@
     <SUITE FILE_PATH="coverage/pythonProject$for.coverage" NAME="for循环嵌套案例 覆盖结果" MODIFIED="1684119248701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$__1_.coverage" NAME="美日印国疫情折线图 (1) 覆盖结果" MODIFIED="1684226183880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/pyecharts/疫情折线图" />
     <SUITE FILE_PATH="coverage/pythonProject$json.coverage" NAME="json互相转换 覆盖结果" MODIFIED="1684120445308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
-    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="折线图 覆盖结果" MODIFIED="1684224561384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/pyecharts" />
+    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="全国地图 覆盖结果" MODIFIED="1684226740242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/pyecharts/绘制地图" />
   </component>
 </project>
