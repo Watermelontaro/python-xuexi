@@ -1,7 +1,7 @@
 import json
 
 from pyecharts.charts import Line
-from pyecharts.options import TitleOpts, ToolboxOpts, LegendOpts, VisualMapOpts, LabelOpts
+from pyecharts.options import TitleOpts, ToolboxOpts, LegendOpts, LabelOpts
 
 # 获取美国数据
 fus = open("E:\Axuexi\Python\资料\可视化案例数据\折线图数据\美国.txt", "r", encoding="utf-8")
@@ -40,7 +40,6 @@ line.set_global_opts(
     title_opts=TitleOpts(title="新冠确诊人数", pos_left="center", pos_bottom="1%"),
     toolbox_opts=ToolboxOpts(is_show=True),
     legend_opts=LegendOpts(is_show=True),
-    visualmap_opts=VisualMapOpts(is_show=True)
 )
 line.add_xaxis(us_x_data)
 line.add_yaxis("美国的确诊人数", us_y_data, label_opts=LabelOpts(is_show=False))
