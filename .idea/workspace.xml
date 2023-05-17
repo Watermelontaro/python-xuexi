@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d098ee-8d40-4cfe-b8ed-d4d4d6d9e67d" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/数据可视化/pyecharts/全国疫情地图/全国疫情地图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据可视化/pyecharts/河南省疫情地图/河南省疫情地图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ZSC_PC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ZSC_PC.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据可视化/pyecharts/河南省疫情地图/河南省疫情地图.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据可视化/pyecharts/河南省疫情地图/河南省疫情地图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据可视化/pyecharts/河南省疫情地图/河南省疫情地图.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据可视化/pyecharts/河南省疫情地图/河南省疫情地图.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +64,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/数据可视化/pyecharts/河南省疫情地图/河南省疫情地图.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -103,7 +107,7 @@
     <configuration name="全国疫情地图.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonProject/数据可视化/pyecharts/全国疫情地图/全国疫情地图.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="render.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonProject/数据可视化/pyecharts/疫情折线图/render.html" useBuiltInWebServerPort="true">
+    <configuration name="河南省疫情地图.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonProject/数据可视化/pyecharts/河南省疫情地图/河南省疫情地图.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="render.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythonProject/数据可视化/pyecharts/绘制地图/render.html" useBuiltInWebServerPort="true">
@@ -289,10 +293,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.河南省疫情地图" />
+        <item itemvalue="JavaScript 调试.河南省疫情地图.html" />
         <item itemvalue="JavaScript 调试.全国疫情地图.html" />
         <item itemvalue="JavaScript 调试.render.html" />
         <item itemvalue="Python.疫情地图" />
-        <item itemvalue="JavaScript 调试.render.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +330,7 @@
       <workItem from="1684220301237" duration="7467000" />
       <workItem from="1684227862794" duration="1033000" />
       <workItem from="1684286953357" duration="5327000" />
-      <workItem from="1684305818344" duration="1790000" />
+      <workItem from="1684305818344" duration="3808000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1683788872876</created>
@@ -475,7 +479,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684287539631</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Changes">
+      <created>1684308144403</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684308144403</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Changes">
+      <created>1684308150178</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1684308150178</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,6 +519,6 @@
     <SUITE FILE_PATH="coverage/pythonProject$for.coverage" NAME="for循环嵌套案例 覆盖结果" MODIFIED="1684119248701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$__1_.coverage" NAME="美日印国疫情折线图 (1) 覆盖结果" MODIFIED="1684226183880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/pyecharts/疫情折线图" />
     <SUITE FILE_PATH="coverage/pythonProject$json.coverage" NAME="json互相转换 覆盖结果" MODIFIED="1684120445308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
-    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="河南省疫情地图 覆盖结果" MODIFIED="1684307697131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/pyecharts/河南省疫情地图" />
+    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="河南省疫情地图 覆盖结果" MODIFIED="1684309743141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/pyecharts/河南省疫情地图" />
   </component>
 </project>
