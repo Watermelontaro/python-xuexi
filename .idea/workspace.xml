@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40d098ee-8d40-4cfe-b8ed-d4d4d6d9e67d" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/数据可视化/pyecharts/柱状图/基础柱状图.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40d098ee-8d40-4cfe-b8ed-d4d4d6d9e67d" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -331,7 +328,7 @@
       <workItem from="1684220301237" duration="7467000" />
       <workItem from="1684227862794" duration="1033000" />
       <workItem from="1684286953357" duration="5327000" />
-      <workItem from="1684305818344" duration="4977000" />
+      <workItem from="1684305818344" duration="5807000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1683788872876</created>
@@ -501,7 +498,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684309933096</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Changes">
+      <created>1684311081333</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684311081333</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Changes">
+      <created>1684311088233</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1684311088233</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,6 +538,6 @@
     <SUITE FILE_PATH="coverage/pythonProject$for.coverage" NAME="for循环嵌套案例 覆盖结果" MODIFIED="1684119248701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$__1_.coverage" NAME="美日印国疫情折线图 (1) 覆盖结果" MODIFIED="1684226183880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/pyecharts/疫情折线图" />
     <SUITE FILE_PATH="coverage/pythonProject$json.coverage" NAME="json互相转换 覆盖结果" MODIFIED="1684120445308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
-    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="河南省疫情地图 覆盖结果" MODIFIED="1684309927205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/pyecharts/河南省疫情地图" />
+    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="基础柱状图 覆盖结果" MODIFIED="1684311046633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据可视化/pyecharts/柱状图" />
   </component>
 </project>
