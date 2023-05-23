@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40d098ee-8d40-4cfe-b8ed-d4d4d6d9e67d" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据可视化/pyecharts/时间线柱状图案例/时间线柱状图案例.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据可视化/pyecharts/时间线柱状图案例/时间线柱状图案例.py" afterDir="false" />
-    </list>
+    <list default="true" id="40d098ee-8d40-4cfe-b8ed-d4d4d6d9e67d" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -442,7 +439,7 @@
       <workItem from="1684397946550" duration="974000" />
       <workItem from="1684457623105" duration="509000" />
       <workItem from="1684460360621" duration="4795000" />
-      <workItem from="1684714535234" duration="1613000" />
+      <workItem from="1684714535234" duration="2048000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1683788872876</created>
@@ -661,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684467935826</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Changes">
+      <created>1684716222321</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1684716222321</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
