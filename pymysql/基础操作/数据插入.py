@@ -13,6 +13,10 @@ comm.select_db('school')
 cursor = comm.cursor()
 # 插入一条数据
 effect_row = cursor.execute("insert into student values(100022,'王五',18,'男')")
+# 查看数据
+cursor.execute('select * from student')
+# 打印数据
+print(cursor.fetchall())
 # 提交事务
 # comm.commit()
 # 打印影响行数
